@@ -1,2 +1,4 @@
-# ejercicio-
-repositorio para trabajar ejercicio condicional
+# Condicional
+-**presentado por:** Daniela Jaramillo
+-**Email:**daniela.jaramillos@upb.edu.co
+Repositorio para trabajar ejercicios condicionales
